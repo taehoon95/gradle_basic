@@ -1,0 +1,5 @@
+gradle_basic/Library.java
+ gradle_basic.Library
+gradle_basic/UserUI.java
+ gradle_basic.UserUI
+ gradle_basic.UserUI$1

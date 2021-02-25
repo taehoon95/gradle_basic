@@ -1,0 +1,2 @@
+gradle_basic/LibraryTest.java
+ gradle_basic.LibraryTest
